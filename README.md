@@ -1,5 +1,4 @@
 # convex_optimization
-Exercise for Convex Optimization class
 
 ### Exercise was a do-it-yourself on convex optimization
 
